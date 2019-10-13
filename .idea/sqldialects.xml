@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/EntryRecord.py" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/Main.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/ViewRecord.py" dialect="GenericSQL" />
+  </component>
+</project>
