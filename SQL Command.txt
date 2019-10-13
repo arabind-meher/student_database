@@ -1,0 +1,11 @@
+CREATE TABLE `test_db`.`student` (
+  `ID` INT NOT NULL,
+  `Name` VARCHAR(255) NULL,
+  `Mark1` INT NULL,
+  `Mark2` INT NULL,
+  `Mark3` INT NULL,
+  `Mark4` INT NULL,
+  `Mark5` INT NULL,
+  `Total` INT NULL,
+  `Grade` VARCHAR(2) NULL,
+  PRIMARY KEY (`ID`));

@@ -48,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S4XD39zBKWtwnXzT63LqQtg6aw" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
