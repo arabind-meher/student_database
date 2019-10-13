@@ -1,16 +1,8 @@
 from tkinter import *
-import mysql.connector
 
 import EntryRecord as Entry
 import DeleteRecord as Delete
 import ViewRecord as View
-
-myDatabase = mysql.connector.connect(
-    host='localhost',
-    user='root',
-    passwd='arabind123',
-    database='test_db'
-)
 
 
 def entry_record():
