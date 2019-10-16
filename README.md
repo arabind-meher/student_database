@@ -11,7 +11,7 @@ This project is to show how we can manipulate MySQL database using Python.
 * messagebox (tkinter)
 
 ### Execution:
-This id the database:<br />
+This is the database:<br />
 ![Database](https://github.com/arabind-meher/student_database/blob/master/Screenshot/DB1.png)
 
 This is the main graphics user interface:<br />
