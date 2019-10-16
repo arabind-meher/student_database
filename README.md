@@ -11,10 +11,10 @@ This project is to show how we can manipulate MySQL database using Python.
 * messagebox (tkinter)
 
 ### Execution
-This id the database:
+This id the database:\n
 ![Database](https://github.com/arabind-meher/student_database/blob/master/Screenshot/DB1.png)
 
-This is the main graphics user interface:
+This is the main graphics user interface:\n
 ![Main](https://github.com/arabind-meher/student_database/blob/master/Screenshot/Main.png)
 
 This is the gui to enter student data:
