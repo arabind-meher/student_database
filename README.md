@@ -6,5 +6,9 @@ This project is to show how we can manipulate MySQL database using Python.
 * MySQL
 
 ### Packages:
-* Tkinter
+* tkinter
 * mysql-connector-python
+* messagebox (tkinter)
+
+### Execution
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
