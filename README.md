@@ -10,7 +10,7 @@ This project is to show how we can manipulate MySQL database using Python.
 * mysql-connector-python
 * messagebox (tkinter)
 
-### Execution
+### Execution:
 This id the database:<br />
 ![Database](https://github.com/arabind-meher/student_database/blob/master/Screenshot/DB1.png)
 
