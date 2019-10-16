@@ -29,5 +29,5 @@ This is the gui to delete student data:<br />
 
 This is the gui to view student data:<br />
 ![View](https://github.com/arabind-meher/student_database/blob/master/Screenshot/View.png)
-![View](https://github.com/arabind-meher/student_database/blob/master/Screenshot/View2.png)
+![View](https://github.com/arabind-meher/student_database/blob/master/Screenshot/View2.png) <br />
 ![View](https://github.com/arabind-meher/student_database/blob/master/Screenshot/View3.png)
